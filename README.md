@@ -1,4 +1,4 @@
-# Questionnaire de satisfaction client
+# Implémentation Web de Tetris
 
 Cette implémentation en HTML, CSS et JavaScript du célèbre jeu Tetris a été entièrement réalisé par Johan Goutorbe le 25/01/2023.
 
